@@ -1,5 +1,5 @@
-I used python 3.11.2 64-bit on windows for this assignment. 
-Mainly VS Code and then gradescope for autograder.
+I used python 3.11.2 64-bit on windows for this project
+IDE: VS Code
 
 Used ChatGPT to debug and improve code.
 
